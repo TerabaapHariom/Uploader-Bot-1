@@ -11,7 +11,7 @@ I can Upload Any Link in File or Video except Drm Protected Links
 
 Use Help Button to Know How to Use me
 
-Made With 💕 By @Tellybots
+Made With 💕 By @SouthTamilall1
 """
     HELP_TEXT = """
 Link to Media or File
@@ -26,22 +26,22 @@ Deleting Thumbnail
 Show Thumbnail
 ➠ Send /showthumb to view custom thumbnail.
 
-Made With 💕 By @Tellybots
+Made With 💕 By @SouthTamilall1
 """
     ABOUT_TEXT = """
  **🤖 Bot :** Url Uploader\n
- **👲 Developer :** [Tellybots](https://telegram.me/tellybots)\n
- **👥 Channel :** [Tellybots](https://telegram.me/tellybots)\n
+ **👲 Developer :** [Abhijeet Kumar 😎](https://t.me/thefuture_ias)\n
+ **👥 Channel :** [SouthTamilall1](https://t.me/SouthTamilall1)\n
  **❄️ Credits :** Everyone in this journey\n
- **🍴 Source :** [Click here](https://t.me/tellybots_digital)\n
+ **🍴 Source :** [Click here](https://t.me/SouthTamilall1)\n
  **📝 Language :** [Python3](https://python.org)\n
  **📚 Library :** [Pyrogram v1.2.0](https://pyrogram.org)\n
  **🌟 Server :** [Heroku](https://heroku.com)\n
 """
     START_BUTTONS = InlineKeyboardMarkup(
         [[
-        InlineKeyboardButton('🤖 Channel', url='https://telegram.me/tellybots'),
-        InlineKeyboardButton('💬 Support', url='https://telegram.me/tellybots_support')
+        InlineKeyboardButton('🤖 Channel', url='https://t.me/SouthTamilall1'),
+        InlineKeyboardButton('💬 Support', url='https://t.me/thefuture_ias')
         ],[
         InlineKeyboardButton('❔ Help', callback_data='help'),
         InlineKeyboardButton('⛔ Close', callback_data='close')
@@ -78,7 +78,7 @@ Made With 💕 By @Tellybots
     UPLOAD_START = "📤 Uploading Please Wait..."
     RCHD_BOT_API_LIMIT = "size greater than maximum allowed size (50MB). Neverthless, trying to upload."
     RCHD_TG_API_LIMIT = "Downloaded in {} seconds.\nDetected File Size: {}\nSorry. But, I cannot upload files greater than 2GB due to Telegram API limitations."
-    AFTER_SUCCESSFUL_UPLOAD_MSG = " JOIN : https://t.me/TGBotsCollection\nFor the List of Telegram Bots"
+    AFTER_SUCCESSFUL_UPLOAD_MSG = " JOIN : https://t.me/SouthTamilall1 \nFor the List of Telegram Bots"
     AFTER_SUCCESSFUL_UPLOAD_MSG_WITH_TS = "Downloaded in {} seconds.\n\nThanks For Using Me\n\nUploaded in {} seconds."
     NOT_AUTH_USER_TEXT = "Please /upgrade your subscription."
     NOT_AUTH_USER_TEXT_FILE_SIZE = "Detected File Size: {}. Free Users can only upload: {}\nPlease /upgrade your subscription.\nIf you think this is a bug, please contact <a href='https://telegram.dog/ThankTelegram'>@SpEcHlDe</a>"
@@ -110,7 +110,7 @@ Made With 💕 By @Tellybots
     ERR_ONLY_TWO_MEDIA_IN_ALBUM = "Media Album should contain only two photos. Please re-send the media album, and then try again, or send only two photos in an album."
     INVALID_UPLOAD_BOT_URL_FORMAT = "URL format is incorrect. make sure your url starts with either http:// or https://. You can set custom file name using the format link | file_name.extension"
     ABUSIVE_USERS = "You are not allowed to use this bot. If you think this is a mistake, please check /me to remove this restriction."
-    FF_MPEG_RO_BOT_AD_VER_TISE_MENT = "Join : @TGBotsCollectionbot \n For the list of Telegram bots. "
+    FF_MPEG_RO_BOT_AD_VER_TISE_MENT = "Join : @SouthTamilall1 \n For the list of Telegram bots. "
     EXTRACT_ZIP_INTRO_ONE = "Send a compressed file first, Then reply /unzip command to the file."
     EXTRACT_ZIP_INTRO_THREE = "Analyzing received file. ⚠️ This might take some time. Please be patient. "
     UNZIP_SUPPORTED_EXTENSIONS = ("zip", "rar")
